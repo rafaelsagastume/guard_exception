@@ -1,7 +1,7 @@
 __autor__ = "Rafael Fernando Garcia Sagastume"
 __copyright__ = "Copyright 2022, Rafael Fernando Garcia Sagastume"
 __license__ = "BSD 3-Clause License"
-__version__ = "0.1.6"
+__version__ = "0.1.7"
 __maintainer__ = "Rafael Fernando Garcia Sagastume"
 __status__ = "Production"
 
