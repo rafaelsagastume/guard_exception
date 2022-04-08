@@ -2,7 +2,7 @@
 name = "guard_exception"
 version = "1.0.0"
 description = "Catch fatal errors or any type of error, used to easily normalize executions in swift calls with PythonKit"
-authors = ["Rafael Fernando Garcia Sagastume <https://github.com/rafaelsagastume>"]
+authors = ["Rafael Fernando Garcia Sagastume <rafael.garcia@ciberc.com>"]
 license = "BSD 3-Clause License"
 readme = "README.md"
 classifiers = [
