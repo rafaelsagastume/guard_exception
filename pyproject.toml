@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "guard_exception"
-version = "0.1.3"
+version = "0.1.4"
 description = "Catch fatal errors or any type of error, used to easily normalize executions in swift calls with PythonKit"
 authors = ["Rafael Garcia Sagastume <rafael.garcia@ciberc.com>"]
 license = "BSD 3-Clause License"
 readme = "README.md"
 classifiers = [
-    "Environment :: Package",
+    "Environment :: Console",
     "Intended Audience :: Developers",
     "Intended Audience :: Education",
     "Intended Audience :: End Users/Desktop",
