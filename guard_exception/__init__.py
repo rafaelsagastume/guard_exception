@@ -1,8 +1,8 @@
 __autor__ = "Rafael Fernando Garcia Sagastume"
-__copyright__ = "Copyright 2022, Rafael Fernando Garcia Sagastume"
+__copyright__ = "Copyright 2022, Rafael Fernando Garcia Sagastume, Guatemala, Escuintla"  # noqa
 __license__ = "BSD 3-Clause License"
-__version__ = "0.1.8"
-__maintainer__ = "Rafael Fernando Garcia Sagastume"
+__version__ = "1.0.0"
+__maintainer__ = "Rafael Fernando Garcia Sagastume <https://github.com/rafaelsagastume>"  # noqa
 __status__ = "Production"
 
 
