@@ -1,7 +1,7 @@
 __autor__ = "Rafael Fernando Garcia Sagastume"
 __copyright__ = "Copyright 2022, Rafael Fernando Garcia Sagastume"
 __license__ = "BSD 3-Clause License"
-__version__ = "0.1.7"
+__version__ = "0.1.8"
 __maintainer__ = "Rafael Fernando Garcia Sagastume"
 __status__ = "Production"
 
@@ -10,7 +10,7 @@ class guard_exception:
     def __init__(self):
         pass
 
-    def guardException(f, **kwargs):
+    def guardException(self, f, **kwargs):
         """
         Description: catch fatal errors or any type of error,
         used to easily normalize executions in fast tween calls with PythonKit
